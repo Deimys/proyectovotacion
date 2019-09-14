@@ -1,0 +1,37 @@
+html{
+    background-image:url(../imagenes/noche.png) ;
+    
+    
+}
+
+body{
+    background-color: transparent;
+    
+}
+
+.alineacion{
+    float: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+
+}
+
+.card{
+    border-radius: 20px;
+    background-image:url(../imagenes/fon.png);
+    font-size: 20px;
+
+}
+#boton{
+border-radius: 50px
+
+}
+.borde{
+    border-radius: 20px;
+}
+.fonlogin{
+  opacity: 0.8;
+}
+#baner{
+    opacity: 0.8;
+}
